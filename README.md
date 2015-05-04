@@ -1,6 +1,6 @@
 # H2O_problem_solution
 
-My 2nd project in Operating systems
+My 2nd project in Operating systems <br>
 H2O problem solution with posix semaphores
 
 
