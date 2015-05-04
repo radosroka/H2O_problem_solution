@@ -15,3 +15,5 @@ B - max random waiting time when molecule is bonding <br>
 
 For example: <br>
 ./h2o 10 10 10 10 <br>
+
+http://www.fit.vutbr.cz/study/courses/IOS/public/Lab/projekty/projekt2/projekt2.html
